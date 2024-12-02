@@ -59,13 +59,7 @@ We used **Matplotlib** and **Seaborn** to generate visually appealing graphs tha
 
 - Bar charts for **top-selling products**.
 - Line charts to track **sales trends** over time.
-- Pie charts to show **sales distribution** across different categories.
-
-Example of a **Top-Selling Products** chart:
-
-![Top 5 Sold Products](https://via.placeholder.com/600x400.png?text=Top+Sold+Products+Chart)
-
----
+- Pie charts to show **sales distribution** across different categories
 
 ## 📥 **How to Run the Project**
 
